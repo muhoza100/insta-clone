@@ -1,2 +1,4 @@
-# insta-clone
-An Instagram-like social media application
+node_modules
+dist
+.vite
+.DS_Store
